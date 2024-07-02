@@ -24,6 +24,12 @@
 
 <p align="left">Sumon , a junior front-end web developer creating a functional and attractive web design , is currently studying in Department of Law, University of Rajshahi, Bangladesh. <br><br>He is self-taught front-end web developer focusing on MERN stack and dedicated to continuous learning as well as capable of adjusting himself with a new technology.</p>
 
+- 🌱 I’m currently learning **TypeScripts**
+
+- 💬 Ask me about **React**
+
+- 📫 How to reach me **miasumon.ru@gmail.com**
+
 ##
 
 
@@ -56,7 +62,6 @@
 
 ###
 
- <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=miasumon-ru&show_icons=true&locale=en&layout=compact" alt="miasumon-ru" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=miasumon-ru&" alt="miasumon-ru" /></p>
 
